@@ -1,14 +1,3 @@
-/**********************************************
-Workshop 1 
-Course:APD545 - summer
-Last Name:Zhao
-First Name:Hengyi
-ID:173484213
-Section:NAA
-This assignment represents my own work in accordance with Seneca Academic Policy.
-Signature
-Date:<2023.05.28>
-**********************************************/
 
 package application;
 
